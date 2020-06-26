@@ -261,8 +261,9 @@ p {
   margin-bottom: 5px;
 }
 
-.main-wrapper .projects-section .intro {
-  margin-bottom: 30px;
+.main-wrapper .project-tagline {
+  margin-left: 15px;
+  margin-bottom: 0px;
 }
 
 .main-wrapper .projects-section .item {
