@@ -1,1 +1,1 @@
-# [My CV](https://www.phibao.github.io)
+# [My CV](phibao.github.io)
